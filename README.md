@@ -3,18 +3,16 @@ subdomain scanner using python
 
 Enter Your Domain: google.com
 
-|---------------------------------------------------------------|
-|     Start Subdomin Scannre                                      |
-|-----------------------------------------------------------------|
-
-
+|----------------------------------------------------------|
+|     Start Subdomin Scannre                               |
+|----------------------------------------------------------|
 [-] 17:08:00
 [+] Target: google.com
 [+] Target ip :  216.58.209.238
 [+] Checking subDomains...
 [+] Code sil3nt-city
 [+] Email sil3nt.city@gmail.com
-[+]-------------------------------------------------------------[+]
+[+]------------------------------------------------------[+]
 1. sub => www.google.com
 2. sub => sites.google.com
 3. sub => feedproxy.google.com
