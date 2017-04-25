@@ -1,8 +1,4 @@
-# subdomain-scanner
-subdomain scanner using python
-
 Enter Your Domain: google.com
-
 17:08:00
 Target: google.com
 Target ip :  216.58.209.238
@@ -11,6 +7,8 @@ Code sil3nt-city
 Email sil3nt.city@gmail.com
 
 
+[+] time = 10:12
+[+] target : google.com
 1. sub => www.google.com
 2. sub => sites.google.com
 3. sub => feedproxy.google.com
